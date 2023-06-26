@@ -8,3 +8,5 @@ Cabe aclarar que se hacen 2 tests uno que realiza el registro en la pagina y otr
 
 Integrantes: 
 	- Ian Velázquez Escobedo
+	- Maximiliano Puga Zambrano
+	- Alan Orlando Trejo Tinajero
