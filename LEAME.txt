@@ -1,0 +1,10 @@
+EL siguiente proyecto toma una pagina web de compra en linea y realiza:
+
+	1. la compra de 3 productos de cada seccion: telefonos, laptops y monitores en el caso de monitores solo son 2, 
+	2. posteriormente los añade al carrito y realiza la compra de ellos, para ello le pide que llene un formulario y realice la compra, la funcion es tardada debido a los tiempos de espera necesarios para que no truene la funcion. 
+	3. Al final en la ruta en la que se ejecute el Script es donde se guardarán los informes o reportes de los tests.
+
+Cabe aclarar que se hacen 2 tests uno que realiza el registro en la pagina y otro que hace el login y la compra de los objetos
+
+Integrantes: 
+	- Ian Velázquez Escobedo
